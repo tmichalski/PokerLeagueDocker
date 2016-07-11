@@ -9,3 +9,6 @@
 1. From command line, execute ./aws-zip.sh
 2. Upload the pokerleague-dist.zip to AWS Elastic Beanstalk
 3. Access your web services API on the port configured in your Dockerfile
+
+# References
+* https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
